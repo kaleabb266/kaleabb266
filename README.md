@@ -27,8 +27,8 @@ I am a Computer Science and Engineering graduate with a strong foundation in **d
 ✅ Portfolio showcasing my work  
 
 ## 🤝 Let's Connect!  
-📬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kaleab266/)  
-🌐 **Portfolio:** [https://sites.google.com/view/kaleabbekele/home]  
+📬 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kaleab266/)  
+🌐 **Portfolio:** [MY portfoio](https://sites.google.com/view/kaleabbekele/home)
 💡 Open to collaboration on data-driven and web-based projects!  
 
 ---
